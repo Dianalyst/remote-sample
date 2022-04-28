@@ -4,3 +4,5 @@ bnmkoiugvbn
 
 Yandex Metrika https://metrika.yandex.ru/list?
 
+
+Google Analytics https://analytics.google.com/
